@@ -1,5 +1,7 @@
 # 靡不有初，鲜克有终
 # 开发时间：2023/8/21 9:21
+# 调用Gurobi求解器求解
+
 import numpy as np
 import pandas as pd
 from gurobipy import *
